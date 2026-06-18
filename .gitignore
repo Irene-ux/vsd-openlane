@@ -44,4 +44,5 @@ pdks/
 /install
 
 # Venv
-/venv
+/venvpico_cts.db
+pico_cts_db
